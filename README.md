@@ -64,8 +64,8 @@ Install Webdrivers.
 Run.
 
 ```bash
-  Windows: python delson.py
-  Linux & Mac: python3 delson.py
+  Windows: python run.py
+  Linux & Mac: python3 run.py
 ```
 
 
